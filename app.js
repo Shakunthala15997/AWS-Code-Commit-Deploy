@@ -16,8 +16,8 @@ const products = [
   {
     id: '102',
     name: 'AI Camera Smartphone',
-    category: 'Mobiles and accessories',
-    price: 15000,
+    category: 'Mobiles and gadgets',
+    price: 16000,
     rating: 4.6,
     badge: 'New Launch',
     desc: 'Next-generation smartphone with AI-powered camera and ultra-fast performance.'
